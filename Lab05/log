@@ -1,0 +1,56 @@
+/home/vlasiosv/OS/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+  File: testfile.txt
+  Size: 15        	Blocks: 8          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 307587      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1215/vlasiosv)   Gid: ( 1217/vlasiosv)
+Access: 2024-12-19 13:17:38.330501319 +0200
+Modify: 2024-12-19 13:17:52.174646885 +0200
+Change: 2024-12-19 13:17:52.174646885 +0200
+ Birth: -
+mv: cannot stat 'testfile.txt': No such file or directory
+mv: cannot stat 'destfile.txt': No such file or directory
+./testfile.txt
+./testfile.txt
+./file1.txt
+
+Hello im Vlassis
+Hello im Vlassis
+Hello im Vlassis
+\Hello World
+Hello im Vlassis
+\Hello World
+tar: Removing leading `/' from member names
+/home/vlasiosv/OS/Lab05/
+/home/vlasiosv/OS/Lab05/example2.c
+/home/vlasiosv/OS/Lab05/example4.c
+/home/vlasiosv/OS/Lab05/example5.c
+/home/vlasiosv/OS/Lab05/example3.c
+/home/vlasiosv/OS/Lab05/example1.c
+/home/vlasiosv/OS/Lab05/testfile.txt
+tar: /home/vlasiosv/OS/Lab05/lab05.tar: file is the archive; not dumped
+/home/vlasiosv/OS/Lab05/example6.c
+/home/vlasiosv/OS/Lab05/log
+/home/vlasiosv/OS/Lab05/file1.txt
+/home/vlasiosv/OS/Lab05/path/
+tar: Removing leading `/' from member names
+/home/vlasiosv/OS/Lab05/
+/home/vlasiosv/OS/Lab05/example2.c
+/home/vlasiosv/OS/Lab05/example4.c
+/home/vlasiosv/OS/Lab05/example5.c
+/home/vlasiosv/OS/Lab05/example3.c
+/home/vlasiosv/OS/Lab05/example1.c
+/home/vlasiosv/OS/Lab05/testfile.txt
+/home/vlasiosv/OS/Lab05/lab05.tar
+/home/vlasiosv/OS/Lab05/example6.c
+/home/vlasiosv/OS/Lab05/log
+tar: /home/vlasiosv/OS/Lab05/log: file changed as we read it
+/home/vlasiosv/OS/Lab05/file1.txt
+/home/vlasiosv/OS/Lab05/path/
+tar: /home/vlasiosv/OS/Lab05: file changed as we read it

@@ -1,1 +1,2 @@
-# Git Hashing Exercise
+This project demonstrates the use of Git for version control alongside basic shell scripting. It includes a script that generates a hash from a given 4-digit input using a standard hashing algorithm (SHA-256). 
+The repository also explores adding and committing files and pushing them to a remote GitHub repository. In addition, it presents the basics of signal handling in C programming. The goal is to understand how to capture and respond to specific system signals, such as SIGINT, and modify the behavior of a program dynamically based on signal events. Through this exercise, we implement custom signal handling logic, study how default behaviors can be overridden and restored, and analyze example codes related to signal processing.
